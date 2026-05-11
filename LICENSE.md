@@ -1,4 +1,4 @@
-# 
+# custom Polymarket Plugin | trailing-stops + gas-optimization offers the most advanced Polymarket plugin, with trailing-stops and gas-optimization. Ideal for professional traders
 
 
 
